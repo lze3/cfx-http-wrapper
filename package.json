@@ -1,0 +1,30 @@
+{
+  "name": "cfx-http-wrapper",
+  "version": "1.0.0",
+  "description": "A wrapper which provides functions to get data from certain endpoints which FXServer provides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeemahh/cfx-http-wrapper.git"
+  },
+  "keywords": [
+    "fivem",
+    "redm",
+    "fxserver",
+    "http",
+    "wrapper"
+  ],
+  "author": "Zeemah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeemahh/cfx-http-wrapper/issues"
+  },
+  "homepage": "https://github.com/Zeemahh/cfx-http-wrapper#readme",
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "node-fetch": "^2.6.0"
+  }
+}
